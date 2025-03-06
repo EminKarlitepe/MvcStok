@@ -35,10 +35,15 @@ Kullanıcıların verileri daha hızlı bulabilmesi için GET metodu ile arama v
 # 🛠️ Kullanılan Teknolojiler
 
 ASP.NET MVC: Uygulama geliştirme çerçevesi
+
 Entity Framework: ORM aracı ile veritabanı yönetimi
+
 SQL Server: Veri depolama ve yönetim sistemi
+
 Bootstrap: Modern ve duyarlı kullanıcı arayüzü
+
 JavaScript & jQuery: Dinamik ve etkileşimli özellikler için
+
 Bu proje sayesinde ASP.NET MVC'nin temel prensipleri öğrenilmiş ve pratik uygulamalarla geliştirme süreçleri daha iyi kavranmıştır. 🚀
 
 ![Ekran görüntüsü 2025-03-07 011152](https://github.com/user-attachments/assets/23ad7816-b339-48a7-bd52-99d94124679b)
